@@ -4,7 +4,7 @@
 # or whitespace (' ').
 
 
-class EmailAddressParser 
+class EmailAddressParser(arguments)
   #str = []
 
   def parse
